@@ -1,5 +1,9 @@
 # UnboringLife
 
+<p align="center">
+  <img src="inc/flower.png" />
+</p>
+
 A leveling tool that make tedious tasks into enjoyable game. Game of life >:D
 
 ## Why?
