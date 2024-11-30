@@ -1,3 +1,5 @@
+#think of level
+
 class Level:
     #current level
     current = 0
@@ -27,7 +29,7 @@ class Level:
 
     #Xp requirement for leveling up
     def getXpRequirement(self):
-        return self.current + 87 * self.current + 100
+        return self.current + 57 * self.current + 100.0
     
     #getting ranks
     def getTier(self):
